@@ -399,12 +399,58 @@ jupyter
 
 ## About the Analyst
 
-| | |
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Karthikeyan+Thirunavukkarasu;Data+Science+%7C+Analytics+%7C+Visualization;Turning+Raw+Data+into+Real+Insight" alt="Typing SVG" />
+
+</div>
+
+---
+
+```python
+analyst = {
+    "name"         : "Karthikeyan Thirunavukkarasu",
+    "role"         : "Data Science Intern",
+    "organization" : "Cognifyz Technologies",
+    "focus"        : ["Geospatial Analysis", "Statistical Modelling",
+                      "Data Visualization", "Machine Learning"],
+    "tools"        : ["Python", "Jupyter", "Pandas", "Matplotlib",
+                      "Seaborn", "scikit-learn", "SciPy"],
+    "linkedin"     : "linkedin.com/in/karthikeyan-thirunavukkarasu-2a2949305",
+    "github"       : "github.com/karthiikofcl07",
+}
+```
+
+---
+
+### Who I Am
+
+I am a data science practitioner with a strong foundation in analytical thinking, statistical reasoning, and visual communication of data. My work is guided by a single principle: **data should not just be processed — it should tell a story**.
+
+This project reflects that approach. Rather than producing a surface-level map, the analysis was designed from the ground up to answer *why* the patterns exist, *what* they imply, and *how* they can be acted upon — all communicated through publication-quality visuals and structured, precise findings.
+
+---
+
+### What I Bring
+
+| Capability | Description |
 |---|---|
-| **Name** | Karthikeyan Thirunavukkarasu |
-| **Role** | Data Science Intern — Cognifyz Technologies |
-| **LinkedIn** | [linkedin.com/in/karthikeyan-thirunavukkarasu-2a2949305](https://www.linkedin.com/in/karthikeyan-thirunavukkarasu-2a2949305) |
-| **GitHub** | [github.com/karthiikofcl07](https://github.com/karthiikofcl07) |
+| **Geospatial Analysis** | Coordinate mapping, KDE density surfaces, spatial cluster detection using DBSCAN with Haversine metric |
+| **Statistical Analysis** | Distribution profiling, IQR analysis, descriptive statistics, cross-group comparisons |
+| **Data Visualization** | Dark-theme multi-panel figures, dual-encoded maps, heatmaps, marginal distribution plots |
+| **Python Engineering** | Clean, modular, well-commented notebook code with consistent design systems |
+| **Scientific Communication** | Findings rendered as structured Markdown reports with inline computed statistics |
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-thirunavukkarasu-2a2949305)
+[![GitHub](https://img.shields.io/badge/View_My_Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthiikofcl07)
+
+</div>
 
 ---
 
